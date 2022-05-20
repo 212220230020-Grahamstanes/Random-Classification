@@ -17,7 +17,7 @@ Purpose of Random classifier: One of the most important features of the Random F
 4.Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 
 ## Program:
-
+```python
 /*
 Program to implement random classification.
 Developed by   :Graham stanes
@@ -32,7 +32,7 @@ plt.plot(x[:,0][y==1],x[:,1][y==1],'bs')
 plt.xlabel("feature 1")
 plt.ylabel("feature 2")
 plt.title('Random Classification Data with 2 classes')
-
+```
 ## Output:
 ![image](https://user-images.githubusercontent.com/75235150/169459915-7adc3d7a-bd2f-4f26-88a6-86d654f7f550.png)
 
