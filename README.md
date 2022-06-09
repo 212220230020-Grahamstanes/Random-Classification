@@ -1,4 +1,6 @@
 # RANDOM CLASSIFICATION
+### EX NO: 01
+### DATE: 04.04.2022
 ## AIM:
 To write a python program to perform random classification.
 
